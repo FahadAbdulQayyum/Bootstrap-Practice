@@ -1,0 +1,50 @@
+.container-fluid,
+.container{
+    border: 5px solid red;
+}
+
+.col-1,
+.col-2,
+.col-3,
+.col-4,
+.col-5,
+.col-6,
+.col-7,
+.col-8,
+.col-9,
+.col-10,
+.col-11,
+.col-12,
+.col {
+    border: 5px solid orange;
+}
+
+.row {
+    border: 5px solid green;
+}
+
+.pink {
+    background-color: pink;
+}
+.blue {
+    background-color: blue;
+}
+
+/* .container-fluid,
+.container {
+    border: 5px solid red;
+}
+
+.col {
+    border: 5px solid grey;
+}
+
+.col-12.d-lg-flex.df-row {
+background-color: orange;
+}
+.col-10 {
+    background-color: lightgreen;
+}
+.col-md-4.col-12 {
+    background-color: lightblue;
+} */
